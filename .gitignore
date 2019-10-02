@@ -1,0 +1,9 @@
+/backend/node_modules
+/backend/.env
+/.vscode
+
+# Exclude everything
+/backend/uploads/*
+
+# Exception to the rule
+!/backend/uploads/.gitkeep 
