@@ -1,6 +1,9 @@
 /backend/node_modules
 /backend/.env
+
 /.vscode
+
+/frontend/node_modules
 
 # Exclude everything
 /backend/uploads/*
